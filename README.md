@@ -15,6 +15,11 @@ Temp is unused Visual Studio 2003 scratch with a stock empty VB.NET WinForms Tes
 
 Open `Test/Test.sln` in Visual Studio .NET 2003 for the WinForms app. Open `Setup1/Setup1.sln` in Visual Studio .NET 2003 with Visual Studio Installer for the setup project. Later Visual Studio versions do not load VS 2003 `.vbproj` / `.vdproj` without a conversion.
 
+## Requirements
+
+- Visual Studio .NET 2003
+- .NET Framework 1.1
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `Temp`. `Test` assembly title, description, company, product, and copyright are empty Visual Studio template defaults (ProductVersion 7.10.3077, solution format 8.00). `Setup1.vdproj` ProductName/Title `Setup1`, ProductVersion 1.0.0, Manufacturer and ARPCONTACT Empired Limited.
