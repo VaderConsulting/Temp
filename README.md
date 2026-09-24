@@ -22,7 +22,7 @@ Open `Test/Test.sln` in Visual Studio .NET 2003 for the WinForms app. Open `Setu
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `Temp`. `Test` assembly title, description, company, product, and copyright are empty Visual Studio template defaults (ProductVersion 7.10.3077, solution format 8.00). `Setup1.vdproj` ProductName/Title `Setup1`, ProductVersion 1.0.0, Manufacturer and ARPCONTACT Empired Limited.
+Working copy from my Historical Dev folder `Temp`. `Test` assembly title, description, company, product, and copyright are empty Visual Studio template defaults (ProductVersion 7.10.3077, solution format 8.00). `Setup1.vdproj` ProductName/Title `Setup1`, ProductVersion 1.0.0, Manufacturer and ARPCONTACT Empired Limited.
 
 ## License
 
